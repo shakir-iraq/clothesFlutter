@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apps\\ApiyahyaFlutter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|d:\\apps\\apiyahyaflutter\\controllers\\getallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|solutionrelative:controllers\\getallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|d:\\apps\\apiyahyaflutter\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|solutionrelative:dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|d:\\apps\\apiyahyaflutter\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|d:\\apps\\apiyahyaflutter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|d:\\apps\\apiyahyaflutter\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|d:\\apps\\apiyahyaflutter\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|d:\\apps\\apiyahyaflutter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C03D120B-AA7C-4B13-8D00-8527E71D8B82}|ApiyahyaFlutter.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "D:\\Apps\\ApiyahyaFlutter\\Dto\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserCreateDto.cs",
+              "ToolTip": "D:\\Apps\\ApiyahyaFlutter\\Dto\\UserCreateDto.cs",
+              "RelativeToolTip": "Dto\\UserCreateDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwFMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:10:00.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllController.cs",
+              "DocumentMoniker": "D:\\Apps\\ApiyahyaFlutter\\Controllers\\GetAllController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GetAllController.cs",
+              "ToolTip": "D:\\Apps\\ApiyahyaFlutter\\Controllers\\GetAllController.cs*",
+              "RelativeToolTip": "Controllers\\GetAllController.cs*",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAiwNABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:17:46.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Apps\\ApiyahyaFlutter\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Apps\\ApiyahyaFlutter\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T14:24:08.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Apps\\ApiyahyaFlutter\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "D:\\Apps\\ApiyahyaFlutter\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:51:01.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Apps\\ApiyahyaFlutter\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Apps\\ApiyahyaFlutter\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:33:55.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apps\\ApiyahyaFlutter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Apps\\ApiyahyaFlutter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:59:20.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Apps\\ApiyahyaFlutter\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Apps\\ApiyahyaFlutter\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:59:30.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
